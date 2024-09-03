@@ -20,7 +20,7 @@ Welcome to the Paint-Brush project! This is an object-oriented Python project us
 - **Clear Screen**: Users can clear the entire screen with the clear button.
 - **N-Corner Shape**: Users can add shapes with N corners by entering the value in the input field.
   
-# I have make this Project as my OOP Final-Project
+# I have make this Project as my OOP Subject's Final-Project
 ## Installation
 
 To run this project, ensure you have Python installed on your system. Then, you need to install the Tkinter library if you haven't already. You can install Tkinter using pip:
