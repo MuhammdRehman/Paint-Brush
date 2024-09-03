@@ -1,6 +1,6 @@
 # Paint-Brush OOP Project
 
-Welcome to the Paint-Brush project! This is an object-oriented Python project using the Tkinter library that allows users to create and edit images with a variety of tools and functionalities.
+Welcome to the Paint-Brush project! This is an object-oriented Python project using the Tkinter library that allows users to create and edit images with a variety of tools and functionalities. I try to make it like actual MS Paint.
 
 ## Features
 
